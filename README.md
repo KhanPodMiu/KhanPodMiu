@@ -16,8 +16,11 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=KhanPodMiu&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KhanPodMiu&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
+
+## 💡 Inspiration
+- Special thanks to [OpenAI](https://openai.com/) for their cutting-edge AI research.
+- Big shoutout to the awesome contributors in **TensorFlow** and **React** communities!
+
+- ---
 [![](https://visitcount.itsvg.in/api?id=KhanPodMiu&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
