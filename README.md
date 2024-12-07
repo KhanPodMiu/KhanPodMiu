@@ -1,5 +1,15 @@
-# 💫 About Me:
-👋 Hi, I’m @KhanPodMiu<br>👀 I’m interested in AI-IOS<br>🌱 I’m currently learning Software Enginner<br>📫 How to reach me ???<br>⚡ Fun fact: Im a boy
+<table>
+<tr>
+<td style="vertical-align:top; padding-right: 10px;">
+<h1 style="font-size: 32px; margin: 0;">💫 About Me: </h1><br>
+👋 Hi, I’m @KhanPodMiu<br>👀 I’m interested in AI-IOS<br>🌱 I’m currently learning Software Engineer<br>📫 How to reach me ???<br>⚡ Fun fact: I'm a boy
+</td>
+<td style="vertical-align:top;">
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3R6cnIzY21nNzkxNWMxZ2g4NHA3bzFybGkyNzhzc3pkNDB0cmNmayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif" alt="Coding GIF" style="max-width: 100%; border-radius: 20px;">
+</td>
+</tr>
+</table>
+
 
 ![GitHub followers](https://img.shields.io/github/followers/KhanPodMiu?style=social)
 ![Languages](https://img.shields.io/github/languages/top/KhanPodMiu/your-repository?style=plastic)
