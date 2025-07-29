@@ -34,7 +34,7 @@
 
 ### 📈 GitHub Stats
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=KhanPodMiu&theme=radical&hide_border=false)<
+![](https://github-readme-streak-stats.herokuapp.com/?user=KhanPodMiu&theme=radical&hide_border=false)<br/>
 ![Anndy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KhanPodMiu&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KhanPodMiu&layout=compact&theme=tokyonight)
 
