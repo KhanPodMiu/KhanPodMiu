@@ -1,5 +1,5 @@
 
-![snake](https://raw.githubusercontent.com/KhanPodMiu/KhanPodMiu/output/github-contribution-grid-snake.svg)
+![snake](https://raw.githubusercontent.com/KhanPodMiu/KhanPodMiu/output/github-contribution-grid-snake-dark.svg)
 
 <table>
 <tr>
