@@ -14,9 +14,6 @@
 </table>
 
 
-![GitHub followers](https://img.shields.io/github/followers/KhanPodMiu?style=social)
-![Languages](https://img.shields.io/github/languages/top/KhanPodMiu/your-repository?style=plastic)
-
 
 ### 🌐 Connect with me
 
