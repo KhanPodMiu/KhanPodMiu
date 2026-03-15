@@ -1,3 +1,6 @@
+
+![snake](https://raw.githubusercontent.com/peann/peann/output/github-contribution-grid-snake.svg)
+
 <table>
 <tr>
 <td style="vertical-align:top; padding-right: 10px;">
