@@ -17,7 +17,8 @@ jobs:
         with:
           github_user_name: KhanPodMiu
           outputs: |
-            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake.svg?color_snake=#00FFAA
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#FF00FF
 
       - uses: crazy-max/ghaction-github-pages@v3
         with:
