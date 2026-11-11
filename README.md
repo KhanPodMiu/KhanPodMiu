@@ -10,8 +10,7 @@
 <tr>
 <td style="vertical-align:top; padding-right: 10px;">
 <h1 style="font-size: 32px; margin: 0;">💫 About Me: </h1><br>
-👋 Hi, I’m Vo Le Nam Khanh Ann (a.k.a. Anndy Vo)<br>🧠 I'm passionate about **AI**<br>🌱 I’m currently learning Computer Science<br>📫 How to reach me ???
-</td>
+👋 Hi, I’m Vo Le Nam Khanh Ann (a.k.a. Anndy Vo)<br>🧠 I'm passionate about ** AI, SE **<br>🌱 I’m currently learning Computer Science<br>
 <td style="vertical-align:top;">
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3R6cnIzY21nNzkxNWMxZ2g4NHA3bzFybGkyNzhzc3pkNDB0cmNmayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif" alt="Coding GIF" style="max-width: 100%; border-radius: 20px;">
 </td>
